@@ -1,0 +1,17 @@
+@import url(/asset/css/root.css);
+@import url(/asset/css/media.css);
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 14px;
+}
+
+.col-3 {
+    width: 25%;
+}
