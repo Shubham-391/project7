@@ -1,0 +1,29 @@
+/* small screens */
+@media (min-width: 0px) {
+    .col-12 {
+        width: 100%;
+    }
+
+    .sm-box {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+/* medium screens */
+@media (min-width: 768px) {
+    .col-6 {
+        width: 50%;
+    }
+}
+
+/* large screens */
+@media (min-width: 1150px) {
+    .col-3 {
+        width: 25%;
+    }
+
+    .sm-box {
+        display: unset;
+    }
+}

@@ -1,8 +1,11 @@
 :root {
     /* color */
     --black: black;
+    --black2: rgba(0, 0, 0, 0.10);
     --gray: #7B7B7B;
     --orange: #FF5300;
+    --orange2: rgba(255, 83, 0, 0.50);
+    --white: white;
 
     /* bg-color */
     --bg-white: white;
